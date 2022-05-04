@@ -1,4 +1,4 @@
 @echo off
 :loop
-echo ^G
+powershell "[console]::beep(500,300)"
 goto loop
