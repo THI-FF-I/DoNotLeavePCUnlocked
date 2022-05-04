@@ -1,4 +1,4 @@
-for /L %i IN (1, 1, 100) DO Notepad
+for /l %%i in (1, 1, 50) DO start "" Notepad
 
 rem Reverse:
 rem taskkill /F /PID Notepad.exe
