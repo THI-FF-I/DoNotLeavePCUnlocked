@@ -1,8 +1,8 @@
 /*
 HOW TO USE:
-Call compiled file from command line with filename in same folder
-and a 1 if you want to print into the file the changed numbers to be able to revert the changes
-or a 0 if not
+Call compiled file from command line with filename in same folder and
+a 1 if you want to print the changed numbers into the file to be able to revert the changes
+or a 0 if not.
 The reverted numbers are the old numbers that have been replaced in the correct order
 
 EXAMPLE:
